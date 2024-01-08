@@ -4,7 +4,7 @@
 **select** <br>
 **st.student_id,** <br>
 **st.name,** <br>
-**t.age,** <br>
+**st.age,** <br>
 **sc.subject,** <br>
 **sc.score** <br>
 [st 테이블에서 student_id , name ,age 를 검색하고 sc 테이블에서 subject , score 를 검색]
